@@ -1,0 +1,58 @@
+{
+    "BehaviorSelector": "Random",
+    "SimulationDuration": 80,
+    "PlayerPriceTolerance": 0.9,
+    "WaterSupply": 1000000.0,
+    "MaxWaterSupply": 1000000.0,
+    "WaterRegen": 5000.0,
+    "CurrentElectricity": 10.0,
+    "InitialSectionLength": 2.0,
+    "SpotPrices": [
+        30000,
+        60000,
+        150000,
+        200000,
+        500000,
+        1200000,
+        2000000,
+        6000000
+    ],
+    "SpotCityLevels": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "BoostElectricityOutput": 1.0,
+    "BoostWaterConsumption": 1.0,
+    "CurrentNeeds": 0.0,
+    "TargetNeeds": 30000000.0,
+    "TargetTime": 4800.0,
+    "SpeedCoeffA": 1.2,
+    "SpeedCoeffB": 0.9,
+    "Distance": 100.0,
+    "DropRate": [
+        0.8,
+        0.15,
+        0.05
+    ],
+    "SpeedCityLevel": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "EachPriceInvest": [
+        1000,
+        1200,
+        1600,
+        2200,
+        4000,
+        7600,
+        13000
+    ]
+}
